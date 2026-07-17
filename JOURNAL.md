@@ -5,9 +5,10 @@ description: "Having a Sphero Bolt drive itself"
 created_at: "2026-07-16"
 ---
 
-## Day 1 - Starting The Project - July 16th - 53 seconds
+## Day 1 - Starting The Project - July 16th - 55 minutes
 
-I spent wayyy longer than 53 seconds on this part but lapse only recorded 53 seconds so whatever thats what i'll go with i guess.
+~~ I spent wayyy longer than 53 seconds on this part but lapse only recorded 53 seconds so whatever thats what i'll go with i guess. ~~
+(Whoops I forgot it's a timelapse and not a full length recording lol) 
 
 Today I decided that I wanted to build a mount for my sphero bolt so that I can mount things onto it later on. 
 I have no experience with any CAD tools, so I'm basically jumping into the deep end. 
