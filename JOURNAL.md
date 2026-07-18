@@ -36,3 +36,33 @@ Then I realized that it would be much neater to remove until the center of the m
 Now I'm going to import it into bambu studio and print the model to check if it fits on my sphero bolt. 
 
 [Lapse Link](https://lapse.hackclub.com/timelapse/MJKbPos28L_9)
+
+## Day 2 - Modifying the Mount - July 17th - 1 Hour 44 Minutes
+
+I printed the model from yesterday:
+
+![alt text](journal/6.png)
+
+and then today I decided to add a wheel to the mount so that it can move with the whole rig. 
+
+I started by adding a extension to the main frame from yesterday. 
+
+![alt text](journal/7.png)
+
+Then I added wheels to the extension.
+
+![alt text](journal/8.png)
+
+Then I added the axel to complete the wheel system.
+
+![alt text](journal/9.png)
+![alt text](journal/10.png)
+
+Here is how it looks after printing: 
+
+![alt text](journal/11.png)
+![alt text](journal/12.png)
+
+I'll test it tomorrow. 
+
+[Lapse Link](https://lapse.hackclub.com/timelapse/QUcXCIlbl9aW)
