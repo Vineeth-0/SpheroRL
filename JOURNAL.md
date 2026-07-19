@@ -83,12 +83,14 @@ I then realized that using normal wheels would not cut it because the sphero can
 
 I modified the print to work with the frame I was modeling earlier (modifying the size and removing unnecessary holes.)
 
-![alt text](journal/15.png)
+![modified original wheel design](journal/15.png)
 
 Then I printed both the frame and one of the wheels just to see if the model would fit and work properly.
 
 However, after printing, the wheel would not turn at all even after applying lubricant and the circles at the bottom of the frame fell off without any force being applied. 
 
-![broken print](image.png)
+![broken print](16/journal.png)
 
 I'll change the model and the wheel design for next print.
+
+[Lapse Link](https://lapse.hackclub.com/timelapse/eSOhsH2oCFgG)
