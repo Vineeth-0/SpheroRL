@@ -66,3 +66,29 @@ Here is how it looks after printing:
 I'll test it tomorrow. 
 
 [Lapse Link](https://lapse.hackclub.com/timelapse/QUcXCIlbl9aW)
+
+## Day 3 - Wheels + new frame - July 18th - 1 Hour 28 Minutes
+
+After testing, I realized a major flaw with my design. When the sphero moved forward, the 3d printed frame would fall off. 
+
+This was because the frame was losing balance and tipping over. 
+
+To fix this I re-designed the frame to have four points of contact with the ground, ensuring that the frame could now balance with no issues. 
+
+![four wheel mounts](journal/13.png)
+
+I then realized that using normal wheels would not cut it because the sphero can move in all directions. To solve this issue I needed to mount omni-directional wheels. After looking around I found this model by @user_2976285009 on Maker World: 
+
+![Image  by "The Robotic Arm is Damaged" on Maker World](journal/14.png)
+
+I modified the print to work with the frame I was modeling earlier (modifying the size and removing unnecessary holes.)
+
+![alt text](journal/15.png)
+
+Then I printed both the frame and one of the wheels just to see if the model would fit and work properly.
+
+However, after printing, the wheel would not turn at all even after applying lubricant and the circles at the bottom of the frame fell off without any force being applied. 
+
+![broken print](image.png)
+
+I'll change the model and the wheel design for next print.
